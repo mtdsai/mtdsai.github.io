@@ -33,13 +33,13 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'mrdslove0@gmail.com'
+    'mtdsai88@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'/', 
+	'/', 
+    '/',
 ];                                                                                                                  
 
 var JumpPage="https://mtdsai.com";
